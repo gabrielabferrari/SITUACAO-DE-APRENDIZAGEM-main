@@ -1,0 +1,8 @@
+# Ignora todos os arquivos e diretórios na raiz do projeto
+/*
+
+# Abre exceção para a pasta lib/ e todo o seu conteúdo
+!/lib/
+
+# Mantém o próprio arquivo .gitignore versionado
+!.gitignore
